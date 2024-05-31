@@ -10,6 +10,7 @@ Welcome to my WordPress Portfolio! This repository showcases my work as a WordPr
 - [Websites Built](#websites-built)
 - [Contact](#contact)
 - [Learning Material](#learning-material)
+- [Resources](#resources)
 
 ## About
 
@@ -99,6 +100,10 @@ I am a passionate WordPress developer with experience in creating custom themes,
 ## Learning Material ##
 - https://www.linkedin.com/learning/wordpress-introduction-to-custom-block-building
 - [Developer Hours: Building better WordPress blocks with the create-block package](https://youtu.be/TtmdYbHKDL0)
+
+## Resources ##
+- https://developer.wordpress.com/studio/
+- https://shots.so/
 
 ## Contact
 

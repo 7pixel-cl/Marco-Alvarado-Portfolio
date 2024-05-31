@@ -1,4 +1,4 @@
-# Marco Alvarado | Agencia CL | 7Pixel WordPress Portfolio
+# Marco Alvarado | Agencia CL | 7Pixel - WordPress Portfolio
 
 Welcome to my WordPress Portfolio! This repository showcases my work as a WordPress developer, including various projects, plugins, and custom themes I have created.
 
@@ -9,6 +9,7 @@ Welcome to my WordPress Portfolio! This repository showcases my work as a WordPr
 - [Technologies](#technologies)
 - [Websites Built](#websites-built)
 - [Contact](#contact)
+- [Learning Material](#learning-material)
 
 ## About
 
@@ -95,6 +96,9 @@ I am a passionate WordPress developer with experience in creating custom themes,
 - **Website:** [App Livegym](https://app.livegym.cl)
 - **Description:** An educational platform offering fitness online courses, quizzes, and certifications, integrated with an access code system for content access. Made using LifterLMS, Elementor Pro, Astra and Custom Plugin for Payments.
 
+## Learning Material ##
+- https://www.linkedin.com/learning/wordpress-introduction-to-custom-block-building
+- [Developer Hours: Building better WordPress blocks with the create-block package](https://youtu.be/TtmdYbHKDL0)
 
 ## Contact
 

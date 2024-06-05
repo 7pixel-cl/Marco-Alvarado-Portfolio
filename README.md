@@ -104,7 +104,7 @@ I am a passionate WordPress developer with experience in creating custom themes,
 ## Resources ##
 - https://developer.wordpress.com/studio/
 - https://shots.so/
-
+- [Studio WordPress for Linux] https://wordpress.com/blog/2024/04/24/studio/#comment-442258)
 ## Contact
 
 Feel free to reach out to me for any queries or collaboration opportunities.

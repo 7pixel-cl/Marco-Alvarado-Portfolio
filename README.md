@@ -32,7 +32,12 @@ I am a passionate WordPress developer with experience in creating custom themes,
 - **Project Name:** Custom Shortcodes Plugin
 - **Description:** Developed a plugin that provides a set of custom shortcodes to enhance content creation within WordPress.
 - **Link:** [Repository Link](#)
+### 4. NextJS / React Projects
+- **Simple Netflix Clone:** https://github.com/7pixel-cl/advnt-flliix | https://advnt-flliix.vercel.app/
+- **Simple Tailwind project:** https://github.com/7pixel-cl/nextjs-tailwind-design-001 | https://nextjs-tailwind-design-001-h5mq.vercel.app/
 
+### 5. Backend:
+- **Nest Microservices**: https://github.com/7pixel-cl/product-microservice
 ## Technologies
 
 - **WordPress**

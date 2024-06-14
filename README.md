@@ -33,6 +33,7 @@ I am a passionate WordPress developer with experience in creating custom themes,
 - **Description:** Developed a plugin that provides a set of custom shortcodes to enhance content creation within WordPress.
 - **Link:** [Repository Link](#)
 ### 4. NextJS / React Projects
+- **Finance SaaS (In Progress):** https://github.com/7pixel-cl/advnt-finance | https://advnt-finance.vercel.app/
 - **Simple Netflix Clone:** https://github.com/7pixel-cl/advnt-flliix | https://advnt-flliix.vercel.app/
 - **Simple Tailwind project:** https://github.com/7pixel-cl/nextjs-tailwind-design-001 | https://nextjs-tailwind-design-001-h5mq.vercel.app/
 

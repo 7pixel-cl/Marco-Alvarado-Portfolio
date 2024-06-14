@@ -41,6 +41,9 @@ I am a passionate WordPress developer with experience in creating custom themes,
 - **Nest Microservices**: https://github.com/7pixel-cl/product-microservice
 ## Technologies
 
+- **Next.js**
+- **ReactJS**
+- **Nest**
 - **WordPress**
 - **PHP**
 - **HTML/CSS**
@@ -50,11 +53,12 @@ I am a passionate WordPress developer with experience in creating custom themes,
 - **LMS**
 - **Divi**
 - **Elementor**
-- **Next.js**
-- **ReactJS**
 - **Bootstrap**
 - **Tailwind CSS**
 - **ChatGPT**
+- **Scrum**
+- **Agile**
+- **Jira**
 
 
 ## Websites Built
